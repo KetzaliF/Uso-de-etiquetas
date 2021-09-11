@@ -2,11 +2,11 @@
 
 En esta pagina web se hizo uso de las siguientes etiquetas.
 
-- <pre> </pre>
+- <pre>
 
-- <cite> </cite>
+- <cite>-</cite>
 
-- <q> </q>
+- <q>-</q>
 
 - <footer> </footer>
 
