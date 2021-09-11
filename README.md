@@ -2,18 +2,18 @@
 
 En esta pagina web se hizo uso de las siguientes etiquetas.
 
-- <pre>
+- pre
 
-- <cite>-</cite>
+- cite
 
-- <q>-</q>
+- q
 
-- <footer> </footer>
+- footer
 
-- <hr>
+- hr
 
-- <blockquote> </blockquote>
+- blockquote
 
-- <header> </header>
+- header
 
-- <strong> </strong> 
+- strong
