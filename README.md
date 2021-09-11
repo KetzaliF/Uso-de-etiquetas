@@ -17,3 +17,7 @@ En esta pagina web se hizo uso de las siguientes etiquetas.
 - header
 
 - strong
+
+## Resultado ✨
+
+https://ketzalif.github.io/Uso-de-etiquetas/
